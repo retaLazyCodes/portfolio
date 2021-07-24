@@ -15,7 +15,7 @@ A personal portfolio website that shows that shows who I am, and what project I 
 
 ## Screenshots
 
-![project screenshot](.images/portfolio.png)
+![project screenshot](./images/portfolio.png)
 
 ## Technologies
 
