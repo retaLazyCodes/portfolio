@@ -106,7 +106,7 @@ a {
 	background: rgba(0,0,0,0.65);
 	width: 100%;
 	padding: 10px;
-	color: #FFF;
+	color: #FFF ;
 	-webkit-transform: translateY(100%);
 	-ms-transform: translateY(100%);
 	-o-transform: translateY(100%);
@@ -125,6 +125,9 @@ a {
 	opacity: 1;
 }
 
+.slider-wrapper .caption p {
+    color: #FFF;
+}
 
 .slider-wrapper h2 {
 	color: #00c5b9;
